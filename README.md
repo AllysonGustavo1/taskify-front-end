@@ -1,3 +1,6 @@
+Este é o front-end do projeto Taskify, uma aplicação web para gerenciamento de tarefas. Este projeto foi desenvolvido utilizando o Angular na versão mais recente.
+O site está hospedado no [render](https://render.com/)
+
 # Taskify
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
