@@ -177,6 +177,11 @@ export class DashboardComponent implements OnInit {
       return;
     }
 
+    if (!this.task.title || !this.task.description || !this.task.priority || !this.task.deadline || !this.task.responsible) {
+      alert('Por favor, preencha todos os campos antes de cadastrar a tarefa.');
+      return;
+    }
+
     const tarefa = {
       usuario: { id: userId },
       titulo: this.task.title,
