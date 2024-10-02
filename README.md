@@ -1,3 +1,4 @@
+Letra A feita.
 Este é o front-end do projeto Taskify, uma aplicação web para gerenciamento de tarefas. Este projeto foi desenvolvido utilizando o Angular na versão mais recente.
 O [site](https://taskify-front-end-mxlf.onrender.com/dashboard) está hospedado no [render](https://render.com/)
 
